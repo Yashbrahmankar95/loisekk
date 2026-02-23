@@ -15,7 +15,8 @@
 ---
 
 ---
-
+## new 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loisekk&theme=tokyo-night&hide_border=true&area=true&custom_title=Sustained%20Engineering%20Performance%20%7C%20Technical%20Depth%20%7C%20Development%20Velocity" />
 # 🧠 AI Engineering Journey & Contribution Momentum
 
 <p align="center">
