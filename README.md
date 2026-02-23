@@ -1,7 +1,8 @@
 <!-- PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Yash%20Brahmankar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=240&section=header&text=Yash%20Brahmankar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLM%20Enthusiast%20%7C%20Future%20AI%20Innovator&descAlignY=60&descSize=18" />
 </p>
+>
 
 <h2 align="center">Artificial Intelligence & Machine Learning Engineer</h2>
 
