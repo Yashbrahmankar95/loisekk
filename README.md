@@ -1,171 +1,104 @@
-<!-- PROFILE HEADER -->
+<!-- ================= PREMIUM HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yash%20Brahmankar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=YASH%20BRAHMANKAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-<h1 align="center">Hi 👋, I'm Yash Brahmankar</h1>
-<h3 align="center">🚀 AI Engineer | Machine Learning Developer | LLM Builder</h3>
-
-<!-- PROFILE VIEWS COUNTER (WORKING) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
-</p>
-
-<!-- GITHUB STATS -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-## dividor
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
-</p>
-
-<!-- STREAK STATS -->
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=loisekk&theme=tokyonight&hide_border=true" />
-</p>
----
 
 <h2 align="center">Artificial Intelligence & Machine Learning Engineer</h2>
 
-<h4 align="center">
-AIML @ OIST | Data Science & Analytics | Oracle & Cisco Certified  
-Python • SQL • C • AI Systems Builder
-</h4>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Model+Builder+%26+Problem+Solver;Turning+Data+Into+Impact;Future+AI+Innovator+🚀&center=true&width=700&height=50">
+  AIML @ OIST • Oracle Certified • Cisco Certified  
+  <br/>
+  Building Scalable AI Systems • LLM Applications • Data-Driven Solutions
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Systems+Builder;Machine+Learning+Engineer;LLM+Application+Developer;Turning+Data+Into+Intelligence;Future+AI+Architect+🚀&center=true&width=700&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
 
+# 🧠 Engineering Profile
 
-## 🤖 Machine Learning & Deep Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
-</p>
+- 🎓 AIML Student (2024–2028)
+- 🤖 Focused on Machine Learning, Deep Learning & LLM Systems
+- 🧠 Exploring AI Agents & Intelligent Automation
+- 📊 Strong foundation in Data Analytics & Model Optimization
+- 🚀 Building real-world AI applications with production mindset
 
-# 🧠 Professional Summary
-
-I am a Bachelor of Technology student specializing in Artificial Intelligence and Machine Learning at Oriental Institute of Science and Technology (2024–2028).
-
-My focus lies in building intelligent systems using structured data processing, machine learning algorithms, and strong programming fundamentals. I actively develop projects that transform theoretical AI concepts into working solutions.
-
-I believe in practical learning, clean coding, and solving real-world problems using technology.
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Artificial Intelligence & Machine Learning  
-Oriental Institute of Science and Technology, Bhopal  
-2024 – 2028  
-
-Core Academic Focus:
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Programming Concepts
-- Data Handling & Model Evaluation
+> I don’t just train models — I design intelligent systems.
 
 ---
 
 # 🛠 Technical Expertise
 
-## 💻 Programming Languages
-- Python (Primary Language)
-- SQL
-- C
-- Data Structures & Algorithms
+## 👨‍💻 Programming & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark" />
+</p>
 
-## 🤖 Artificial Intelligence & Machine Learning
-- Supervised Learning
-- Model Training & Testing
-- Data Cleaning & Preparation
-- Feature Engineering (Basic)
-- Performance Evaluation Metrics
+## 🤖 Machine Learning Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
+</p>
 
-## 📊 Data & Tools
-- MySQL
-- Git & GitHub (Version Control)
-- Jupyter Notebook
-- Figma (Basic UI Understanding)
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+</p>
+
+## 🧠 LLM & AI Engineering
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge"/>
+</p>
 
 ---
 
-# 📈 GitHub Performance Dashboard
+# 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=loisekk&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=loisekk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Certifications & Recognition
+# 🚀 Current Focus
 
-- Oracle Certified  
-- Cisco Certified  
-- AIML Undergraduate – OIST  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loisekk&theme=algolia&no-frame=true&no-bg=true" />
-</p>
+- 🧠 Large Language Models & Prompt Engineering  
+- 🔎 Retrieval-Augmented Generation (RAG)  
+- ⚡ Efficient Model Training & Optimization  
+- 🏗 Clean Architecture for AI Applications  
+- 📈 Deployable & Scalable ML Pipelines  
 
 ---
 
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🚀 Current Development Focus (2026 Roadmap)
-
-- Building end-to-end ML mini projects
-- Strengthening DSA for technical interviews
-- Improving model optimization techniques
-- Learning applied AI for analytics & automation
-- Exploring deployment of ML models
-
----
-
-# 💡 Engineering Philosophy
-
-✔ Write clean, readable, and efficient code  
-✔ Understand fundamentals before frameworks  
-✔ Build projects, not just complete courses  
-✔ Focus on long-term skill growth  
-✔ Combine AI knowledge with practical application  
-
----
-
-# 🌍 Location & Contact
+# 🌍 Connect With Me
 
 📍 Bhopal, Madhya Pradesh, India  
-🎓 AIML @ OIST  
 📧 yashbrahmankar95@gmail.com  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yashbrahmankar-74b422397/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Brahmankar-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Brahmankar-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-⚡ Building Intelligent Systems Today for a Smarter Tomorrow ⚡
+  <strong>⚡ Building Intelligent Systems Today — Shaping Tomorrow's AI ⚡</strong>
 </p>
 
 <p align="center">
