@@ -14,24 +14,31 @@
 ---
 ---
 
-# 🧠 AI Development Journey
+---
+
+# 🧠 AI Engineering Journey & Contribution Momentum
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=2&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loisekk&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Consistency%20%7C%20Code%20Momentum" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loisekk&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Discipline%20%7C%20Continuous%20Improvement%20%7C%20Code%20Velocity" />
 </p>
 
 <p align="center">
-  <strong>Consistency • Growth • System Thinking • Real-World Impact</strong>
+  <strong>Consistency • Technical Depth • Systematic Growth • Production Mindset</strong>
+</p>
+
+<p align="center">
+  Demonstrating sustained engineering effort, structured learning, and real-world AI system development.
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2&section=header"/>
 </p>
 
+---
 ---
 
 # 🧠 Engineering Identity
