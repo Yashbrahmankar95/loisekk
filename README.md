@@ -1,8 +1,18 @@
-<!-- PREMIUM HEADER -->
+<!-- ELITE PREMIUM HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=240&section=header&text=Yash%20Brahmankar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLM%20Enthusiast%20%7C%20Future%20AI%20Innovator&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yash%20Brahmankar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" />
 </p>
->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AIML+%40+OIST;Data+Science+%26+Analytics;Oracle+%26+Cisco+Certified;Python+%7C+SQL+%7C+C;LLM+%26+AI+Systems+Builder" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+</p>
+
+---
 
 <h2 align="center">Artificial Intelligence & Machine Learning Engineer</h2>
 
