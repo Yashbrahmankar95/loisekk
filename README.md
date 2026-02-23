@@ -1,17 +1,25 @@
-<!-- ELITE PREMIUM HEADER -->
-
+<!-- PROFILE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Yash%20Brahmankar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20" />
 </p>
+<h1 align="center">Hi 👋, I'm Yash Brahmankar</h1>
+<h3 align="center">🚀 AI Engineer | Machine Learning Developer | LLM Builder</h3>
 
+<!-- PROFILE VIEWS COUNTER (WORKING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AIML+%40+OIST;Data+Science+%26+Analytics;Oracle+%26+Cisco+Certified;Python+%7C+SQL+%7C+C;LLM+%26+AI+Systems+Builder" />
+  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
 </p>
 
+<!-- GITHUB STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loisekk&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<!-- STREAK STATS -->
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=loisekk&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 <h2 align="center">Artificial Intelligence & Machine Learning Engineer</h2>
