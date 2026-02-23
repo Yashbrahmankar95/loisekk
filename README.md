@@ -20,6 +20,12 @@ Python • SQL • C • AI Systems Builder
 
 ---
 
+
+## 🤖 Machine Learning & Deep Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
+</p>
+
 # 🧠 Professional Summary
 
 I am a Bachelor of Technology student specializing in Artificial Intelligence and Machine Learning at Oriental Institute of Science and Technology (2024–2028).
