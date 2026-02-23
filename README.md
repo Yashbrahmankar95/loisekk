@@ -15,6 +15,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=loisekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loisekk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+## dividor
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
 
 <!-- STREAK STATS -->
 <p align="center">
