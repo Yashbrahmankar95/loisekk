@@ -12,6 +12,27 @@
 </p>
 
 ---
+---
+
+# 🧠 AI Development Journey
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loisekk&theme=tokyo-night&hide_border=true&area=true&custom_title=Engineering%20Consistency%20%7C%20Code%20Momentum" />
+</p>
+
+<p align="center">
+  <strong>Consistency • Growth • System Thinking • Real-World Impact</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2&section=header"/>
+</p>
+
+---
 
 # 🧠 Engineering Identity
 
